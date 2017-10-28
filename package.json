@@ -28,5 +28,8 @@
     "immutable": "^3.8.2",
     "redux": "^3.7.2",
     "socket.io": "^2.0.4"
+  },
+  "engines": {
+    "node": "8.8.1"
   }
 }
