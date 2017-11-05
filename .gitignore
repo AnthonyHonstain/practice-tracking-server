@@ -11,6 +11,7 @@ yarn-error.log*
 
 # IntelliJ
 .idea
+*.iml
 
 # Runtime data
 pids
