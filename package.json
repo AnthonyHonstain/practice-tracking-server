@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    // babel-node comes from babel-cli (easily run Node with transpiling support)
     "start": "babel-node index.js",
     "test": "mocha --require babel-core/register ./test/**/*.js",
     "test:watch": "npm run test -- --watch"
